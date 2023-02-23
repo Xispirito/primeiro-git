@@ -1,3 +1,4 @@
+
 const saida = document.querySelector(".saida");
 
 function digitacao(texto, contador) {
