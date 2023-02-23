@@ -1,0 +1,22 @@
+body {
+  background: #222;
+  color: #fffaaa;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-content: stretch;
+  align-items: center;
+}
+.saida {
+  display: flex;
+  align-items: center;
+  
+  width: 145px;
+  height: 54px;
+
+  background: #29d;
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 30px;
+}
